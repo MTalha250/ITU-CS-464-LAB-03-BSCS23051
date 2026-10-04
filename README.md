@@ -87,13 +87,9 @@ A short floor past the hall's exit holds a boost pad, two flag poles and a warm 
 
 **Reference image:** a top-down map of *Portal* Test Chamber 00 (`Reference/reference_image.jpeg`).
 ![Portal Test Chamber 00 reference map](Reference/reference_image.jpeg)
-
-- Source: *[add the website or creator and link where you found the image]*. It looks like a fan-made map, not an official Valve image.
 - What I took from it: a single connected path of rooms, a narrow passage between them, doorways, and a clear start and end.
 
 **Reference video:** a short clip of *Portal* Test Chamber 00 (`Reference/reference_video.mp4`).
-
-- Source: *[add the video title, channel and link]*.
 - What I took from it: how the player moves from the start through the rooms to the exit, and how the exit is made obvious.
 
 *Portal* is by Valve (2007). These references are used only to study layout and flow for a coursework exercise.
